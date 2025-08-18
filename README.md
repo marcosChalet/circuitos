@@ -1,5 +1,8 @@
 # Circuitos Digitais
 
+***projeto1.circ*** projeto principal.
+***projeto1 - raw.circ*** projeto sem os testes para ficar mais leve para o motor gráfico.
+
 ## Conversor de Segmentos
 ![Screenshot_20250818_152657_Adobe Scan](https://github.com/user-attachments/assets/aadbf884-fd6b-40ef-9a56-0052948763f1)
 ![Screenshot_20250818_152751_Adobe Scan](https://github.com/user-attachments/assets/99894d84-1ab3-4c44-b112-b750fa94072b)
